@@ -1,5 +1,5 @@
 # homeworks-of-Orsion
-This is a homework notebook, I guess.
+This is a learning notebook, I guess.
 
 **这是Orson的作业本，希望未来驻足回望时可以不辜负自己。**
 2023.4.21
