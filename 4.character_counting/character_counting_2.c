@@ -4,7 +4,7 @@ int main()
 {
     double nc;
 
-    for (nc = 0; getchar() != 10; ++nc);
+    for (nc = 0; getchar() != EOF; ++nc);
 
     printf("%.0f\n", nc);
 }
