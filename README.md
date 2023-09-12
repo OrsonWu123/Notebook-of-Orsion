@@ -8,3 +8,5 @@ This is a learning notebook, I guess.
 >+ 2.trans-temperature（华氏度转摄氏度）
 >+ 3.repeat_your_words（复述输入的内容）
 >+ 4.character_counting（字符计数）
+>+ 5.lines_counting（行数计数）
+>+ 6.words_counting（字符计数）
