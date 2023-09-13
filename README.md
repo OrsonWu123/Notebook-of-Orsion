@@ -9,6 +9,6 @@ This is a learning notebook, I guess.
 >+ 3.repeat_your_words（复述输入的内容）
 >+ 4.character_counting（字符计数）
 >+ 5.lines_counting（行数计数）
->+ 6.words_counting（字符计数）
+>+ 6.words_counting（单词计数）
 >+ 7.rhombus（生成边长为 sqrt n^2 的#菱形）
 >+ 8.mixd_counting（统计各个数字数目以及空格、换行、标点数目）
