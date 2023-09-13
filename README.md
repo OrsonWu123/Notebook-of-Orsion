@@ -10,3 +10,4 @@ This is a learning notebook, I guess.
 >+ 4.character_counting（字符计数）
 >+ 5.lines_counting（行数计数）
 >+ 6.words_counting（字符计数）
+>+ 7.rhombus（生成边长为 sqrt n^2 的#菱形）
