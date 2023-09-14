@@ -12,3 +12,4 @@ This is a learning notebook, I guess.
 >+ 6.words_counting（单词计数）
 >+ 7.rhombus（生成边长为 sqrt 2*n^2 的#菱形）
 >+ 8.mixd_counting（统计各个数字数目以及空格、换行、标点数目）
+>+ 9.idempotent（计算幂函数）
