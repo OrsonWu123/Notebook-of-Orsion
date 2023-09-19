@@ -13,3 +13,6 @@ This is a learning notebook, I guess.
 >+ 7.rhombus（生成边长为 sqrt 2*n^2 的#菱形）
 >+ 8.mixd_counting（统计各个数字数目以及空格、换行、标点数目）
 >+ 9.idempotent（计算幂函数）
+>+ 10.longest_words（一排字符中最长的词语，以空格为分界线）
+>+ 11.longest_lines（多排文字中最长的一排，以换行为分界线）
+>+ 12.Pi（计算圆周率Pi）
