@@ -17,3 +17,4 @@ This is a learning notebook, I guess.
 >+ 11.longest_lines（多排文字中最长的一排，以换行为分界线）
 >+ 12.Pi（计算圆周率Pi）
 >+ 13.bubble_sort（无须多言，经典的冒泡排序）
+>+ 14.fancy_sums（数列横竖花式求和）
